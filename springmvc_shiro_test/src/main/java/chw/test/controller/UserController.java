@@ -47,4 +47,6 @@ public class UserController {
         SecurityUtils.getSubject().logout();
         return "redirect:login";
     }
+
+
 }
