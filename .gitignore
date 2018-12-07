@@ -7,3 +7,6 @@
 /*.log
 /**/*.iml
 /**/out/
+/springmvc_shiro_test/target/
+/springmvc_mybatis_test/target/
+/springmvc_test/target/
